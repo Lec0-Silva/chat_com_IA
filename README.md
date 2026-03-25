@@ -13,10 +13,9 @@ Tecnologias utilizadas
 - JavaScript
 
  Objetivo do projeto
-Projeto desenvolvido para prática de desenvolvimento web e integração futura com APIs de Inteligência Artificial.
-
- Acesse o projeto
-(Em breve)
+Projeto desenvolvido para prática de desenvolvimento web e integração futura com APIs de Inteligência Artificial                   
+  Acesse o projeto
+     (Em breve)
 
 Autor
 Alex Rosa 
